@@ -1,4 +1,4 @@
-# Youtube Telegram Bot Downloader
+# Youtube Downloader Telegram Bot
 
 this is a simple telegram bot.
 

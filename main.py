@@ -7,10 +7,7 @@ import dotenv
 
 dotenv.load_dotenv()
 resolution_order = ['480p', '360p']
-WHITE_LIST = [
-    140770223,
-    745585668
-]
+WHITE_LIST = []
 
 
 def start_command_handler(update, context):
